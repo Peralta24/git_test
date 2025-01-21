@@ -2,5 +2,5 @@ My First Proyect in Git
 I love my girlfriend very much!
 I want to be a programmer of ten 
 test commit
-I want to eat a pizza with my 
+I want to eat a pizza with my girlfriend
 I love the music
