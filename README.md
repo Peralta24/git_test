@@ -3,3 +3,4 @@
 I love my parents 
 I want to drink a coca cola
 I dont want to go to the gym 
+I want to read in my kindle
